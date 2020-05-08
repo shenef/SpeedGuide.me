@@ -130,17 +130,19 @@ Image examples:
 ![](https://i.imgur.com/SX1gsV5.png)
 ![](https://i.imgur.com/io4lvpS.jpg)
 
-simple Table example:
-| Raptor + Red Element + Lamashu | Raptor + Red Element + Gandarewa |
-| - | - |
-| Wakka: Attack Raptor | Wakka: Attack Raptor |
-| Switch anyone for Kimahri | Switch anyone for Kimahri |
-| Kimahri: Defend | Kimahri: Defend |
-| Switch anyone for Yuna | Switch anyone for Yuna |
-| Yuna: Summon Valefor | Yuna: Summon Valefor |
-| Valefor: Fire on Lamashtu | Valefor: Boost |
-| Valefor: Boost | Valefor: Blizzard on Red Elemental |
-| Valefor: Blizzard on Red Elemental | Valefor: Water on Gandarewa |
+simple Table example:  
+
+| Raptor + Red Element + Lamashu | Raptor + Red Element + Gandarewa |  
+| - | - |  
+| Wakka: Attack Raptor | Wakka: Attack Raptor |  
+| Switch anyone for Kimahri | Switch anyone for Kimahri |  
+| Kimahri: Defend | Kimahri: Defend |  
+| Switch anyone for Yuna | Switch anyone for Yuna |  
+| Yuna: Summon Valefor | Yuna: Summon Valefor |  
+| Valefor: Fire on Lamashtu | Valefor: Boost |  
+| Valefor: Boost | Valefor: Blizzard on Red Elemental |  
+| Valefor: Blizzard on Red Elemental | Valefor: Water on Gandarewa |  
+
 
 advanced table (from the Final Fantasy Tactics Advance Route):
 <table>
@@ -153,10 +155,10 @@ advanced table (from the Final Fantasy Tactics Advance Route):
         <th>---</th>
     </tr>
     <tr>
-        <td colspan=6>
-
+        <td colspan=6>  
+  
 - First turn with Ritz, set options to Fast Cursor Speed, Quick Text, and Attack Name / Exp / JP / Unequippable Items to Off  
-- Wait through all turns
+- Wait through all turns  
         </td>
     </tr>
 </table>
