@@ -1,7 +1,4 @@
-# FFX any% Bahamut Route Beginners Guide for PS2
-
-Note from JohnShepherd104:
-I have not and do not claim to have created any of these strategies, graphics used, or content in general. This guide is a Boiled-Up Standard Speedrun Procedure for runners of all levels new to Bahamut route. Notes and resources used for documenting the procedure are to the right. I left whitespace for you to add your own notes below, cheers! Ultimately -- everyone listed had something crutial to add to the overall strategy.
+# Long links
 
 - CloseToWar's WR Run
 https://www.twitch.tv/videos/465481788?collection=gU72zs7hNBWEpw		
@@ -23,26 +20,7 @@ working on drop/encounter tracking with me"
 
 <hr>
 
-#### This Guide is Tailored for PS2 Any% Running Only
-Including strats for PC, PS4, etc. and trying to make this guide "all things for all people" would clutter up the guide a lot. This would make it harder to learn this run for beginners to the route so the details for PC, PS4, etc. are not included. For those interested in PS4, PC, etc. routes I would refer you to MrTyton's guide.
-
-#### This Guide is Tailored for Winning Blitzball Only
-This Bahamut Route requires a Blitzball win. While there are backup strats if you lose, they would clutter up this guide a lot. Beginners are best to create a save before the Blitzball game and practice the strats for mastery. Play out a 2-1 win at your pleasure if you wish. If you are uncomfortable about the blitzball game, make a save before talking to Wakka in each run for backup recovery. For those interested in runs with Blitzball loses, I would refer you to MrTyton's Guide.
-
-#### Required Due-Dilligence - Counting Spheres
-Bahamut Route requires you track aquiring a certain number of spheres, a tracker is available at (https://www.speedrun.com/ffx/resources). A good place to start counting is Kilika Woods during the Scout Ball Menu. Check your starting numbers there.
-1. 17 Speed Spheres
-1. 47 Power Spheres
-
-#### Why Quick Hits Ending over Bahamut Smash ending?
-From my analysis, this ending had the most potential for easy and strong endings for beginners on the PS2. There is also "Bahamut Smash" ending which seems to be a slightly more popular meta currently due to the fact Quick Hits was nerfed on PC and PS4. Both endings are great, I just took the one with the least ammount of complexity and best potential to complete runs on PS2 from what I could determine.
-
-FFX Speedrunning Shorthand
-- SD: Stands for Skip Dialogue; means mash X until the dialog has concluded
-- CS: Stands for Cutscene; movie with gameplay models; no need to mash X
-- FMV: Stands for Full Motion Video; fancy movie graphics to enjoy; no need to mash X
-
-## Zanarkand
+## Deep lists
 1. Mash Select to skip part of opening CS (~15s into run)
 2. (Hold ↓) Talk to three kids, name self (X↓X)
 3. Talk to two women
@@ -125,12 +103,12 @@ FFX Speedrunning Shorthand
 35. CS (~2 min 30s)
 36. Do not Save
 
-## Besaid
+## Images
 Image examples:
 ![](https://i.imgur.com/SX1gsV5.png)
 ![](https://i.imgur.com/io4lvpS.jpg)
 
-simple Table example:  
+## simple Table example:  
 
 | Raptor + Red Element + Lamashu | Raptor + Red Element + Gandarewa |  
 | - | - |  
@@ -144,7 +122,7 @@ simple Table example:
 | Valefor: Blizzard on Red Elemental | Valefor: Water on Gandarewa |  
 
 
-advanced table (from the Final Fantasy Tactics Advance Route):
+## advanced table (from the Final Fantasy Tactics Advance Route):
 <table>
     <tr>
         <th>01</th>
