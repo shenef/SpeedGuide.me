@@ -7,8 +7,8 @@ Screenshots are only provided for hidden Chests.
 At the end of this Guide is a Map of the Game with the Route drawn onto it.
 
 #### Terminology:
-- Safety Strat: Mostly extra healing items or Speednuts and Enduranuts, feel free to skip those if you feel comfortable with the run and are not doing a marathon run or race
-- Backup: Usually a safer, easier or changed Strategy
+- Safety Strategy: Mostly extra healing items or Speednuts and Enduranuts, feel free to skip those if you feel comfortable with the run and are not doing a marathon run or race
+- Backup: Usually a safer, easier or alternative Strategy
 - Lux: the unit of the ingame Sunlight meter 
 
 ## Beginning of the Run
@@ -23,27 +23,28 @@ Set Date and Time:
   - Set "Skip BIOS" to "False"
 
 With this time,
-- you will get ghouls during Fog Castle, sunlight will kill them immediately, and they will most likely drop healing items,
-- better enemy pattern in Firetop Mountain,
-- you will reach Delusion Forest during the Day (enables you to skip the RNG Manip. there)
+- you will get Ghouls during Fog Castle, sunlight will kill them immediately, and they will most likely drop healing items,
+- better enemies in Firetop Mountain,
+- you will reach Delusion Forest during the Day (enables you to skip the RNG Manipulation there)
 
-Optional on Emulator: Increase the Light on the Start Screen (visualized by Sun Animation Speed)
+Optional on Emulator: Increase the Light on the Start Screen (visualized by Sun animation speed)
 
 - Create a new save file, 
 - reduce the name to one character,
 - keep the default region setting, 
 - select your Difficulty (keep in mind that every Difficulty is a separate Category, this guide is made for the default setting, Normal 2),
-- start the timer when confirming on the Summary Screen
+- start the timer when confirming on the Summary Screen.
 
-After the intro, pause the game and set the text speed to "Fast", it only saves a few seconds so you should be fast at that menu
+After the intro, pause the game and set the text speed to "Fast", it only saves about 3-4 seconds so you should be fast at that menu.
 
 ## Fog Castle
-- 1 Lux or more to kill ghouls
-- Coffin room: Defeat the bats and open the chest (5x speed nut, but you will keep 2 of them for Solar Tree)
+- have 1 Lux or more to kill the ghouls outside
+- Coffin room: Defeat the bats and open the chest (5x speed nut, but you will keep 2 of them for Solar Tree)  
+  Caution: The Chest won't spawn if you run out of energy against the bats.
 
 #### Purification
 - Spread directly at the coffin
-- Use Speed Nut shortly before finishing the Count
+- Use Speed Nut shortly before finishing the Purification.
 
 ## Small Cave
 - Make sure you have 6-8 Lux throughout the entire Dungeon!
